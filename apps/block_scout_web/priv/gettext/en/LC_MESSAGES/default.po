@@ -464,7 +464,7 @@ msgstr ""
 
 #: lib/block_scout_web/templates/layout/_footer.html.eex:22
 #, elixir-autogen, elixir-format
-msgid "Blockscout is a tool for inspecting and analyzing EVM based blockchains. Blockchain explorer for Ethereum Networks."
+msgid "SECRYPT is a fast and efficient PoS EVM based blockchain."
 msgstr ""
 
 #: lib/block_scout_web/templates/block/_tile.html.eex:64
